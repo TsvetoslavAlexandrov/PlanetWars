@@ -1,0 +1,14 @@
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.exe
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.dll
+D:\Web\01. Structure_Skeleton\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.dll
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+D:\Web\01. Structure_Skeleton\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
